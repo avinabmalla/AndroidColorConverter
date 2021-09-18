@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7560297A-499A-4C25-8317-88F79B867EEA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ColorConverter</RootNamespace>
-    <AssemblyName>ColorConverter</AssemblyName>
+    <RootNamespace>AndroidColorConverter</RootNamespace>
+    <AssemblyName>AndroidColorConverter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

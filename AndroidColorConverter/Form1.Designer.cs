@@ -1,4 +1,4 @@
-﻿namespace ColorConverter
+﻿namespace AndroidColorConverter
 {
 	partial class Form1
 	{

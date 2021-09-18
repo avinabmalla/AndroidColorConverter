@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ColorConverter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("AndroidColorConverter")]
+[assembly: AssemblyDescription("A Windows Forms application to convert ARGB colors to Android integer colors and vice-versa")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ColorConverter")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("Avinab Malla")]
+[assembly: AssemblyProduct("AndroidColorConverter")]
+[assembly: AssemblyCopyright("Copyright © Avinab Malla, 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
